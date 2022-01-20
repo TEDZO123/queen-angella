@@ -25,15 +25,16 @@ Asena.addCommand({pattern: 'info', fromMe: false, desc: 'Shows bot information a
     ----- ` + Config.BOTSK + ` -----
     
 ╭─➤ 𝗜𝗡𝗙𝗢 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 »
-│❖ *ᴀᴜᴛʜᴏʀ* : DRIPS MEMES
+│❖ *ᴀᴜᴛʜᴏʀ* : ᴀsʟᴀᴍ
 │❖ *ᴋᴇʀɴᴇʟ* : ʟɪɴᴜx
-│❖ *ɪɴꜱᴛᴀɢʀᴀᴍ* : ` + Config.SLINK + `
-│❖ *ᴡʜᴀᴛꜱᴀᴘᴘ* : ᴄᴏᴍɪɴɢ ꜱᴏᴏɴ...
+│❖ *ɪɴꜱᴛᴀɢʀᴀᴍ* : `a_s_l_a_m_._x `
+│❖ *ᴡʜᴀᴛꜱᴀᴘᴘ* :👇
+| https://chat.whatsapp.com/JqUKjz9djTS9mDmxA2ph2t
 ╰────────────────❋ཻུ۪۪➹
 ⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘
                ` + Config.BOTSK + `
     
-    ⚡ QUEEN ANGELLA ⚡
+    ⚡ ᴛᴇᴅᴢᴏ sɪʀ ⚡
 `}) 
 
 }));
