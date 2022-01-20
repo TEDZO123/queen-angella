@@ -11,23 +11,25 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*𝐁𝐎𝐓 𝐍𝐀𝐌𝐄:QUEEN ANGELLA*
  
-◼◼❏❏©drips ®zimbots
+◼◼❏❏©𝚃𝙴𝙳𝚉𝙾 𝚂𝙸𝚁
 
-*𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐍𝐔𝐌𝐁𝐄𝐑 : wa.me/27634090203?text=Hii%20DripsMemes%20Sir.%20*
+*𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐍𝐔𝐌𝐁𝐄𝐑 : wa.me/917736835721?text=Hii%20tedzoMemes%20Sir.%20*
 
  *𝐓𝐎 𝐂𝐇𝐄𝐂𝐊 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 .update   To update Bot .update now*
 
- *𝐁𝐎𝐓 𝐌𝐀𝐊𝐈𝐍𝐆 𝐕𝐈𝐃𝐄𝐎 : https://www.youtube.com/channel/UC2hESq6BCRMCU-LKpl7Oq8g*
+ *𝐁𝐎𝐓 𝐌𝐀𝐊𝐈𝐍𝐆 𝐕𝐈𝐃𝐄𝐎 : ippo channel onnum illa*
      
- *Instagram id: https://www.instagram.com/zim_hot_chicks_official?utm_medium=copy_link*
+ *Instagram id: https://www.instagram.com/a_s_l_a_m_._x?utm_medium=copy_link*
 
- *𝐃𝐑𝐈𝐏𝐒 𝐎𝐅𝐂  𝐙𝐈𝐌-𝐓𝐄𝐂𝐇𝐒 : website coming soon*
+ *𝗪𝗘𝗕𝗦𝗜𝗧𝗘: website coming soon*
 
- *𝐆𝐈𝐓𝐇𝐔𝐁 𝐋𝐈𝐍𝐊 : https://github.com/zim-bot/queen-angella*
+ *𝐆𝐈𝐓𝐇𝐔𝐁 𝐋𝐈𝐍𝐊 : https://github.com/TEDZO123/TEDZO-SIR-1*
+ 
+*𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗚𝗣 : https://chat.whatsapp.com/JqUKjz9djTS9mDmxA2ph2t
 
- *QUEEN ANGELLA 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘  𝐃𝐑𝐈𝐏𝐒 𝐌𝐄𝐌𝐄𝐒 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐓𝐎 𝐌𝐘 𝐘𝐎𝐔𝐓𝐔𝐁𝐄 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 𝐃𝐑𝐈𝐏𝐒 𝐎𝐅𝐂 𝐅𝐎𝐑 𝐔𝐏𝐃𝐀𝐓𝐄𝐒*
+ *🄰🅂🄻🅄 🅂🄸🅁 🄱🄾🅃 𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘  𝙏𝙀𝘿𝙕𝙊 𝙎𝙄𝙍 *
 
- ◼◼❏❏©drips ®zimbots
+ ◼◼❏❏©🄰🅂🄻🅄 ®𝚃𝚎𝚍𝚣𝚘
 `}) 
 
 }));
